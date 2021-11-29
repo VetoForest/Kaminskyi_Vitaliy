@@ -6,5 +6,7 @@ public class Class1
 	{
 		Console.WriteLine("wdwqe");
 		Console.WriteLine("wdwqe");
+		Console.WriteLine("wdwqe");/////////
+
 	}
 }
